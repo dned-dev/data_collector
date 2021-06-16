@@ -1,4 +1,4 @@
-# data-collector
+# data_collector
 Simple web application build with PostgreSQL and Flask. 
 
 # Features
